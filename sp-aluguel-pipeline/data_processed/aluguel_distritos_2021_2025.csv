@@ -1,0 +1,481 @@
+distrito_padronizado,ano,valor_medio_m2,variacao_acumulada_pct,unidade,fontes,situacao_predominante
+AGUA RASA,2021,25.26,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+AGUA RASA,2022,28.9,14.43,R$/m²,FipeZAP (Regional); IBGE,Estimado
+AGUA RASA,2023,32.76,29.69,R$/m²,FipeZAP (Regional); IBGE,Estimado
+AGUA RASA,2024,36.54,44.67,R$/m²,FipeZAP (Regional); IBGE,Estimado
+AGUA RASA,2025,39.49,56.35,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ALTO DE PINHEIROS,2021,29.52,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ALTO DE PINHEIROS,2022,33.82,14.55,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ALTO DE PINHEIROS,2023,38.34,29.86,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ALTO DE PINHEIROS,2024,42.73,44.72,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ALTO DE PINHEIROS,2025,46.12,56.21,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ANHANGUERA,2021,16.42,0.0,R$/m²,IBGE (Censo 2022),Incompleto
+ANHANGUERA,2022,18.75,14.17,R$/m²,IBGE (Censo 2022),Incompleto
+ANHANGUERA,2023,21.26,29.51,R$/m²,IBGE (Censo 2022),Incompleto
+ANHANGUERA,2024,23.74,44.56,R$/m²,IBGE (Censo 2022),Incompleto
+ANHANGUERA,2025,25.6,55.88,R$/m²,IBGE (Censo 2022),Incompleto
+ARICANDUVA,2021,22.25,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ARICANDUVA,2022,25.47,14.47,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ARICANDUVA,2023,28.8,29.41,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ARICANDUVA,2024,32.17,44.57,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ARICANDUVA,2025,34.73,56.08,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ARTUR ALVIM,2021,23.02,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ARTUR ALVIM,2022,26.49,15.08,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ARTUR ALVIM,2023,30.03,30.43,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ARTUR ALVIM,2024,33.49,45.47,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ARTUR ALVIM,2025,36.14,57.01,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BARRA FUNDA,2021,22.65,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BARRA FUNDA,2022,25.94,14.52,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BARRA FUNDA,2023,29.37,29.68,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BARRA FUNDA,2024,32.73,44.5,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BARRA FUNDA,2025,35.4,56.29,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BELA VISTA,2021,22.03,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BELA VISTA,2022,25.23,14.54,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BELA VISTA,2023,28.58,29.75,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BELA VISTA,2024,31.86,44.64,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BELA VISTA,2025,34.41,56.23,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BELEM,2021,28.94,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BELEM,2022,33.19,14.67,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BELEM,2023,37.49,29.54,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BELEM,2024,41.74,44.21,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BELEM,2025,45.07,55.74,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BOM RETIRO,2021,32.87,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BOM RETIRO,2022,37.69,14.67,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BOM RETIRO,2023,42.75,30.06,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BOM RETIRO,2024,47.61,44.85,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BOM RETIRO,2025,51.34,56.18,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BRAS,2021,23.94,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BRAS,2022,27.42,14.55,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BRAS,2023,31.11,29.95,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BRAS,2024,34.7,44.97,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BRAS,2025,37.41,56.3,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BRASILANDIA,2021,22.27,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BRASILANDIA,2022,25.55,14.73,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BRASILANDIA,2023,28.98,30.13,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BRASILANDIA,2024,32.35,45.27,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BRASILANDIA,2025,34.96,56.97,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BUTANTA,2021,21.41,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BUTANTA,2022,24.51,14.48,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BUTANTA,2023,27.76,29.63,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BUTANTA,2024,30.97,44.61,R$/m²,FipeZAP (Regional); IBGE,Estimado
+BUTANTA,2025,33.47,56.28,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CACHOEIRINHA,2021,24.7,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CACHOEIRINHA,2022,28.3,14.6,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CACHOEIRINHA,2023,32.05,29.74,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CACHOEIRINHA,2024,35.79,44.89,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CACHOEIRINHA,2025,38.61,56.32,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMBUCI,2021,28.62,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMBUCI,2022,32.81,14.62,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMBUCI,2023,37.21,30.02,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMBUCI,2024,41.52,45.05,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMBUCI,2025,44.8,56.54,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMPO BELO,2021,30.2,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMPO BELO,2022,34.7,14.89,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMPO BELO,2023,39.32,30.21,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMPO BELO,2024,44.03,45.81,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMPO BELO,2025,47.51,57.31,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMPO GRANDE,2021,25.94,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMPO GRANDE,2022,29.73,14.65,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMPO GRANDE,2023,33.67,29.82,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMPO GRANDE,2024,37.55,44.77,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMPO GRANDE,2025,40.47,56.05,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMPO LIMPO,2021,32.08,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMPO LIMPO,2022,36.74,14.54,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMPO LIMPO,2023,41.53,29.47,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMPO LIMPO,2024,46.26,44.23,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAMPO LIMPO,2025,49.99,55.85,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CANGAIBA,2021,21.45,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CANGAIBA,2022,24.56,14.49,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CANGAIBA,2023,27.8,29.6,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CANGAIBA,2024,31.04,44.68,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CANGAIBA,2025,33.52,56.27,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAPAO REDONDO,2021,30.75,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAPAO REDONDO,2022,35.32,14.87,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAPAO REDONDO,2023,40.02,30.16,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAPAO REDONDO,2024,44.61,45.08,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CAPAO REDONDO,2025,48.2,56.75,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CARRAO,2021,21.87,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CARRAO,2022,25.06,14.56,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CARRAO,2023,28.33,29.51,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CARRAO,2024,31.6,44.47,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CARRAO,2025,34.13,56.03,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CASA VERDE,2021,20.56,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CASA VERDE,2022,23.47,14.16,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CASA VERDE,2023,26.6,29.39,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CASA VERDE,2024,29.64,44.21,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CASA VERDE,2025,32.0,55.68,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CIDADE ADEMAR,2021,24.78,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CIDADE ADEMAR,2022,28.4,14.6,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CIDADE ADEMAR,2023,32.19,29.89,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CIDADE ADEMAR,2024,35.98,45.18,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CIDADE ADEMAR,2025,38.86,56.79,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CIDADE DUTRA,2021,25.12,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CIDADE DUTRA,2022,28.79,14.63,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CIDADE DUTRA,2023,32.54,29.54,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CIDADE DUTRA,2024,36.24,44.26,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CIDADE DUTRA,2025,39.09,55.64,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CIDADE LIDER,2021,20.94,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CIDADE LIDER,2022,24.0,14.64,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CIDADE LIDER,2023,27.29,30.31,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CIDADE LIDER,2024,30.42,45.28,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CIDADE LIDER,2025,32.86,56.91,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CIDADE TIRADENTES,2021,15.86,0.0,R$/m²,IBGE (Censo 2022),Incompleto
+CIDADE TIRADENTES,2022,18.19,14.69,R$/m²,IBGE (Censo 2022),Incompleto
+CIDADE TIRADENTES,2023,20.6,29.92,R$/m²,IBGE (Censo 2022),Incompleto
+CIDADE TIRADENTES,2024,23.0,45.01,R$/m²,IBGE (Censo 2022),Incompleto
+CIDADE TIRADENTES,2025,24.81,56.42,R$/m²,IBGE (Censo 2022),Incompleto
+CONSOLACAO,2021,30.21,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CONSOLACAO,2022,34.67,14.77,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CONSOLACAO,2023,39.22,29.84,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CONSOLACAO,2024,43.81,45.04,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CONSOLACAO,2025,47.25,56.42,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CURSINO,2021,28.57,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CURSINO,2022,32.71,14.48,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CURSINO,2023,37.05,29.69,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CURSINO,2024,41.29,44.53,R$/m²,FipeZAP (Regional); IBGE,Estimado
+CURSINO,2025,44.62,56.19,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ERMELINO MATARAZZO,2021,22.85,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ERMELINO MATARAZZO,2022,26.2,14.65,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ERMELINO MATARAZZO,2023,29.66,29.78,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ERMELINO MATARAZZO,2024,33.01,44.44,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ERMELINO MATARAZZO,2025,35.64,55.98,R$/m²,FipeZAP (Regional); IBGE,Estimado
+FREGUESIA DO O,2021,28.72,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+FREGUESIA DO O,2022,32.95,14.72,R$/m²,FipeZAP (Regional); IBGE,Estimado
+FREGUESIA DO O,2023,37.28,29.79,R$/m²,FipeZAP (Regional); IBGE,Estimado
+FREGUESIA DO O,2024,41.6,44.84,R$/m²,FipeZAP (Regional); IBGE,Estimado
+FREGUESIA DO O,2025,44.91,56.38,R$/m²,FipeZAP (Regional); IBGE,Estimado
+GRAJAU,2021,22.23,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+GRAJAU,2022,25.45,14.49,R$/m²,FipeZAP (Regional); IBGE,Estimado
+GRAJAU,2023,28.81,29.64,R$/m²,FipeZAP (Regional); IBGE,Estimado
+GRAJAU,2024,32.16,44.71,R$/m²,FipeZAP (Regional); IBGE,Estimado
+GRAJAU,2025,34.69,56.08,R$/m²,FipeZAP (Regional); IBGE,Estimado
+GUAIANASES,2021,30.92,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+GUAIANASES,2022,35.52,14.87,R$/m²,FipeZAP (Regional); IBGE,Estimado
+GUAIANASES,2023,40.38,30.59,R$/m²,FipeZAP (Regional); IBGE,Estimado
+GUAIANASES,2024,45.01,45.56,R$/m²,FipeZAP (Regional); IBGE,Estimado
+GUAIANASES,2025,48.59,57.15,R$/m²,FipeZAP (Regional); IBGE,Estimado
+IGUATEMI,2021,18.51,0.0,R$/m²,IBGE (Censo 2022),Incompleto
+IGUATEMI,2022,21.22,14.68,R$/m²,IBGE (Censo 2022),Incompleto
+IGUATEMI,2023,24.07,30.05,R$/m²,IBGE (Censo 2022),Incompleto
+IGUATEMI,2024,26.8,44.79,R$/m²,IBGE (Censo 2022),Incompleto
+IGUATEMI,2025,28.9,56.17,R$/m²,IBGE (Censo 2022),Incompleto
+IPIRANGA,2021,29.75,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+IPIRANGA,2022,34.14,14.74,R$/m²,FipeZAP (Regional); IBGE,Estimado
+IPIRANGA,2023,38.74,30.2,R$/m²,FipeZAP (Regional); IBGE,Estimado
+IPIRANGA,2024,43.21,45.22,R$/m²,FipeZAP (Regional); IBGE,Estimado
+IPIRANGA,2025,46.69,56.93,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ITAIM BIBI,2021,20.58,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ITAIM BIBI,2022,23.61,14.68,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ITAIM BIBI,2023,26.71,29.78,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ITAIM BIBI,2024,29.86,45.05,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ITAIM BIBI,2025,32.25,56.69,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ITAIM PAULISTA,2021,28.81,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ITAIM PAULISTA,2022,33.06,14.76,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ITAIM PAULISTA,2023,37.4,29.82,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ITAIM PAULISTA,2024,41.66,44.63,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ITAIM PAULISTA,2025,44.94,56.02,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ITAQUERA,2021,30.02,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ITAQUERA,2022,34.46,14.8,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ITAQUERA,2023,39.06,30.12,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ITAQUERA,2024,43.6,45.24,R$/m²,FipeZAP (Regional); IBGE,Estimado
+ITAQUERA,2025,47.15,57.1,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JABAQUARA,2021,21.66,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JABAQUARA,2022,24.78,14.39,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JABAQUARA,2023,28.04,29.44,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JABAQUARA,2024,31.3,44.5,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JABAQUARA,2025,33.8,55.99,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JACANA,2021,28.54,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JACANA,2022,32.72,14.63,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JACANA,2023,37.14,30.12,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JACANA,2024,41.4,45.05,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JACANA,2025,44.81,57.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JAGUARA,2021,22.96,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JAGUARA,2022,26.28,14.46,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JAGUARA,2023,29.82,29.84,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JAGUARA,2024,33.25,44.79,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JAGUARA,2025,35.9,56.33,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JAGUARE,2021,22.73,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JAGUARE,2022,26.05,14.59,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JAGUARE,2023,29.54,29.94,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JAGUARE,2024,32.96,44.98,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JAGUARE,2025,35.58,56.54,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARAGUA,2021,32.79,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARAGUA,2022,37.56,14.55,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARAGUA,2023,42.6,29.9,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARAGUA,2024,47.56,45.04,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARAGUA,2025,51.34,56.57,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM ANGELA,2021,24.52,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM ANGELA,2022,28.12,14.67,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM ANGELA,2023,31.79,29.67,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM ANGELA,2024,35.46,44.62,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM ANGELA,2025,38.31,56.22,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM HELENA,2021,27.76,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM HELENA,2022,31.83,14.67,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM HELENA,2023,36.02,29.75,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM HELENA,2024,40.21,44.87,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM HELENA,2025,43.43,56.44,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM PAULISTA,2021,29.94,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM PAULISTA,2022,34.38,14.82,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM PAULISTA,2023,39.0,30.26,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM PAULISTA,2024,43.42,45.01,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM PAULISTA,2025,46.84,56.45,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM SAO LUIS,2021,30.82,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM SAO LUIS,2022,35.34,14.68,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM SAO LUIS,2023,40.05,29.96,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM SAO LUIS,2024,44.66,44.92,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JARDIM SAO LUIS,2025,48.27,56.61,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JOSE BONIFACIO,2021,26.88,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JOSE BONIFACIO,2022,30.84,14.73,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JOSE BONIFACIO,2023,34.99,30.17,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JOSE BONIFACIO,2024,39.07,45.33,R$/m²,FipeZAP (Regional); IBGE,Estimado
+JOSE BONIFACIO,2025,42.21,57.02,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LAJEADO,2021,31.85,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LAJEADO,2022,36.45,14.43,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LAJEADO,2023,41.2,29.35,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LAJEADO,2024,45.95,44.27,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LAJEADO,2025,49.58,55.66,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LAPA,2021,20.93,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LAPA,2022,24.07,15.04,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LAPA,2023,27.2,29.97,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LAPA,2024,30.35,45.05,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LAPA,2025,32.73,56.4,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LIBERDADE,2021,20.86,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LIBERDADE,2022,23.88,14.47,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LIBERDADE,2023,27.03,29.61,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LIBERDADE,2024,30.2,44.81,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LIBERDADE,2025,32.62,56.39,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LIMAO,2021,23.23,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LIMAO,2022,26.6,14.5,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LIMAO,2023,30.14,29.75,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LIMAO,2024,33.61,44.69,R$/m²,FipeZAP (Regional); IBGE,Estimado
+LIMAO,2025,36.27,56.15,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MANDAQUI,2021,27.38,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MANDAQUI,2022,31.45,14.87,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MANDAQUI,2023,35.67,30.28,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MANDAQUI,2024,39.78,45.27,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MANDAQUI,2025,42.97,56.93,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MARSILAC,2021,16.49,0.0,R$/m²,IBGE (Censo 2022),Incompleto
+MARSILAC,2022,18.88,14.51,R$/m²,IBGE (Censo 2022),Incompleto
+MARSILAC,2023,21.41,29.88,R$/m²,IBGE (Censo 2022),Incompleto
+MARSILAC,2024,23.85,44.68,R$/m²,IBGE (Censo 2022),Incompleto
+MARSILAC,2025,25.75,56.21,R$/m²,IBGE (Censo 2022),Incompleto
+MOEMA,2021,20.79,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MOEMA,2022,23.8,14.49,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MOEMA,2023,27.03,30.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MOEMA,2024,30.13,44.91,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MOEMA,2025,32.52,56.43,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MOOCA,2021,23.67,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MOOCA,2022,27.2,14.94,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MOOCA,2023,30.83,30.28,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MOOCA,2024,34.33,45.05,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MOOCA,2025,37.1,56.75,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MORUMBI,2021,32.68,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MORUMBI,2022,37.48,14.7,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MORUMBI,2023,42.56,30.23,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MORUMBI,2024,47.38,44.98,R$/m²,FipeZAP (Regional); IBGE,Estimado
+MORUMBI,2025,51.25,56.81,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PARELHEIROS,2021,16.22,0.0,R$/m²,IBGE (Censo 2022),Incompleto
+PARELHEIROS,2022,18.63,14.85,R$/m²,IBGE (Censo 2022),Incompleto
+PARELHEIROS,2023,21.08,29.98,R$/m²,IBGE (Censo 2022),Incompleto
+PARELHEIROS,2024,23.52,45.02,R$/m²,IBGE (Censo 2022),Incompleto
+PARELHEIROS,2025,25.42,56.69,R$/m²,IBGE (Censo 2022),Incompleto
+PARI,2021,26.53,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PARI,2022,30.41,14.63,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PARI,2023,34.41,29.68,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PARI,2024,38.3,44.37,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PARI,2025,41.36,55.88,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PARQUE DO CARMO,2021,26.02,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PARQUE DO CARMO,2022,29.9,14.92,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PARQUE DO CARMO,2023,33.8,29.92,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PARQUE DO CARMO,2024,37.67,44.79,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PARQUE DO CARMO,2025,40.68,56.36,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PEDREIRA,2021,25.26,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PEDREIRA,2022,28.96,14.64,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PEDREIRA,2023,32.91,30.29,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PEDREIRA,2024,36.72,45.36,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PEDREIRA,2025,39.68,57.09,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PENHA,2021,22.55,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PENHA,2022,25.86,14.66,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PENHA,2023,29.27,29.78,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PENHA,2024,32.64,44.73,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PENHA,2025,35.23,56.23,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PERDIZES,2021,32.49,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PERDIZES,2022,37.14,14.3,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PERDIZES,2023,42.15,29.71,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PERDIZES,2024,46.96,44.53,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PERDIZES,2025,50.8,56.35,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PERUS,2021,27.45,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PERUS,2022,31.45,14.6,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PERUS,2023,35.66,29.93,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PERUS,2024,39.78,44.94,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PERUS,2025,42.93,56.41,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PINHEIROS,2021,21.38,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PINHEIROS,2022,24.54,14.79,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PINHEIROS,2023,27.78,29.94,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PINHEIROS,2024,30.95,44.79,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PINHEIROS,2025,33.41,56.29,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PIRITUBA,2021,29.38,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PIRITUBA,2022,33.72,14.79,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PIRITUBA,2023,38.22,30.09,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PIRITUBA,2024,42.66,45.21,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PIRITUBA,2025,46.09,56.88,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PONTE RASA,2021,24.07,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PONTE RASA,2022,27.62,14.73,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PONTE RASA,2023,31.26,29.83,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PONTE RASA,2024,34.78,44.46,R$/m²,FipeZAP (Regional); IBGE,Estimado
+PONTE RASA,2025,37.51,55.81,R$/m²,FipeZAP (Regional); IBGE,Estimado
+RAPOSO TAVARES,2021,30.4,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+RAPOSO TAVARES,2022,34.87,14.73,R$/m²,FipeZAP (Regional); IBGE,Estimado
+RAPOSO TAVARES,2023,39.49,29.92,R$/m²,FipeZAP (Regional); IBGE,Estimado
+RAPOSO TAVARES,2024,44.03,44.84,R$/m²,FipeZAP (Regional); IBGE,Estimado
+RAPOSO TAVARES,2025,47.59,56.55,R$/m²,FipeZAP (Regional); IBGE,Estimado
+REPUBLICA,2021,30.07,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+REPUBLICA,2022,34.45,14.56,R$/m²,FipeZAP (Regional); IBGE,Estimado
+REPUBLICA,2023,39.04,29.82,R$/m²,FipeZAP (Regional); IBGE,Estimado
+REPUBLICA,2024,43.53,44.76,R$/m²,FipeZAP (Regional); IBGE,Estimado
+REPUBLICA,2025,47.04,56.45,R$/m²,FipeZAP (Regional); IBGE,Estimado
+RIO PEQUENO,2021,31.04,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+RIO PEQUENO,2022,35.62,14.75,R$/m²,FipeZAP (Regional); IBGE,Estimado
+RIO PEQUENO,2023,40.33,29.93,R$/m²,FipeZAP (Regional); IBGE,Estimado
+RIO PEQUENO,2024,44.99,44.95,R$/m²,FipeZAP (Regional); IBGE,Estimado
+RIO PEQUENO,2025,48.57,56.49,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SACOMA,2021,32.63,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SACOMA,2022,37.51,14.97,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SACOMA,2023,42.55,30.43,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SACOMA,2024,47.35,45.12,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SACOMA,2025,51.1,56.64,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SANTA CECILIA,2021,24.67,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SANTA CECILIA,2022,28.33,14.83,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SANTA CECILIA,2023,32.13,30.23,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SANTA CECILIA,2024,35.85,45.33,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SANTA CECILIA,2025,38.74,57.01,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SANTANA,2021,21.63,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SANTANA,2022,24.77,14.51,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SANTANA,2023,28.06,29.71,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SANTANA,2024,31.21,44.27,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SANTANA,2025,33.75,56.02,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SANTO AMARO,2021,31.82,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SANTO AMARO,2022,36.43,14.49,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SANTO AMARO,2023,41.25,29.63,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SANTO AMARO,2024,46.02,44.62,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SANTO AMARO,2025,49.67,56.09,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO DOMINGOS,2021,28.37,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO DOMINGOS,2022,32.5,14.55,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO DOMINGOS,2023,36.83,29.8,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO DOMINGOS,2024,41.1,44.84,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO DOMINGOS,2025,44.41,56.52,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO LUCAS,2021,21.51,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO LUCAS,2022,24.6,14.38,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO LUCAS,2023,27.81,29.31,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO LUCAS,2024,30.98,44.06,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO LUCAS,2025,33.45,55.53,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO MATEUS,2021,30.41,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO MATEUS,2022,34.75,14.27,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO MATEUS,2023,39.45,29.73,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO MATEUS,2024,43.97,44.61,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO MATEUS,2025,47.48,56.15,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO MIGUEL,2021,26.46,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO MIGUEL,2022,30.35,14.69,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO MIGUEL,2023,34.34,29.77,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO MIGUEL,2024,38.31,44.79,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO MIGUEL,2025,41.43,56.56,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO RAFAEL,2021,32.77,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO RAFAEL,2022,37.49,14.38,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO RAFAEL,2023,42.41,29.41,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO RAFAEL,2024,47.28,44.25,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAO RAFAEL,2025,51.07,55.82,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAPOPEMBA,2021,32.79,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAPOPEMBA,2022,37.6,14.67,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAPOPEMBA,2023,42.59,29.9,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAPOPEMBA,2024,47.5,44.87,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAPOPEMBA,2025,51.25,56.32,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAUDE,2021,32.87,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAUDE,2022,37.8,15.03,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAUDE,2023,42.85,30.38,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAUDE,2024,47.76,45.31,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SAUDE,2025,51.65,57.16,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SE,2021,28.49,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SE,2022,32.71,14.78,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SE,2023,37.06,30.06,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SE,2024,41.44,45.42,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SE,2025,44.71,56.92,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SOCORRO,2021,24.01,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SOCORRO,2022,27.52,14.6,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SOCORRO,2023,31.12,29.57,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SOCORRO,2024,34.74,44.67,R$/m²,FipeZAP (Regional); IBGE,Estimado
+SOCORRO,2025,37.45,55.97,R$/m²,FipeZAP (Regional); IBGE,Estimado
+TATUAPE,2021,21.46,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+TATUAPE,2022,24.61,14.69,R$/m²,FipeZAP (Regional); IBGE,Estimado
+TATUAPE,2023,27.96,30.26,R$/m²,FipeZAP (Regional); IBGE,Estimado
+TATUAPE,2024,31.21,45.43,R$/m²,FipeZAP (Regional); IBGE,Estimado
+TATUAPE,2025,33.68,56.95,R$/m²,FipeZAP (Regional); IBGE,Estimado
+TREMEMBE,2021,29.23,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+TREMEMBE,2022,33.54,14.76,R$/m²,FipeZAP (Regional); IBGE,Estimado
+TREMEMBE,2023,38.07,30.27,R$/m²,FipeZAP (Regional); IBGE,Estimado
+TREMEMBE,2024,42.49,45.39,R$/m²,FipeZAP (Regional); IBGE,Estimado
+TREMEMBE,2025,45.88,56.97,R$/m²,FipeZAP (Regional); IBGE,Estimado
+TUCURUVI,2021,31.54,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+TUCURUVI,2022,36.22,14.84,R$/m²,FipeZAP (Regional); IBGE,Estimado
+TUCURUVI,2023,41.01,30.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+TUCURUVI,2024,45.63,44.66,R$/m²,FipeZAP (Regional); IBGE,Estimado
+TUCURUVI,2025,49.33,56.39,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA ANDRADE,2021,32.87,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA ANDRADE,2022,37.7,14.68,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA ANDRADE,2023,42.72,29.96,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA ANDRADE,2024,47.49,44.48,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA ANDRADE,2025,51.24,55.88,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA CURUCA,2021,23.96,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA CURUCA,2022,27.47,14.63,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA CURUCA,2023,31.12,29.86,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA CURUCA,2024,34.68,44.73,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA CURUCA,2025,37.47,56.36,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA FORMOSA,2021,26.23,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA FORMOSA,2022,30.0,14.39,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA FORMOSA,2023,34.01,29.68,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA FORMOSA,2024,37.98,44.79,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA FORMOSA,2025,41.07,56.56,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA GUILHERME,2021,25.05,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA GUILHERME,2022,28.73,14.69,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA GUILHERME,2023,32.51,29.78,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA GUILHERME,2024,36.32,45.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA GUILHERME,2025,39.22,56.59,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA JACUI,2021,27.12,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA JACUI,2022,31.1,14.66,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA JACUI,2023,35.28,30.1,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA JACUI,2024,39.39,45.26,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA JACUI,2025,42.54,56.87,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA LEOPOLDINA,2021,25.63,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA LEOPOLDINA,2022,29.41,14.74,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA LEOPOLDINA,2023,33.38,30.23,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA LEOPOLDINA,2024,37.17,45.05,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA LEOPOLDINA,2025,40.16,56.72,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MARIA,2021,22.21,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MARIA,2022,25.39,14.33,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MARIA,2023,28.82,29.77,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MARIA,2024,32.18,44.87,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MARIA,2025,34.74,56.41,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MARIANA,2021,24.92,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MARIANA,2022,28.63,14.89,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MARIANA,2023,32.44,30.17,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MARIANA,2024,36.25,45.44,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MARIANA,2025,39.09,56.85,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MATILDE,2021,31.5,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MATILDE,2022,36.1,14.63,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MATILDE,2023,40.95,30.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MATILDE,2024,45.64,44.91,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MATILDE,2025,49.21,56.24,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MEDEIROS,2021,33.0,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MEDEIROS,2022,37.71,14.27,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MEDEIROS,2023,42.71,29.43,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MEDEIROS,2024,47.55,44.09,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA MEDEIROS,2025,51.38,55.68,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA PRUDENTE,2021,21.44,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA PRUDENTE,2022,24.53,14.44,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA PRUDENTE,2023,27.81,29.72,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA PRUDENTE,2024,31.04,44.79,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA PRUDENTE,2025,33.51,56.3,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA SONIA,2021,26.53,0.0,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA SONIA,2022,30.36,14.46,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA SONIA,2023,34.42,29.75,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA SONIA,2024,38.36,44.59,R$/m²,FipeZAP (Regional); IBGE,Estimado
+VILA SONIA,2025,41.39,56.02,R$/m²,FipeZAP (Regional); IBGE,Estimado
